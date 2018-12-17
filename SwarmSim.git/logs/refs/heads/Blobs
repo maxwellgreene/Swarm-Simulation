@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 b9af04bbb05173ffd703bfc238398768dd63404b maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1508717777 -0400	branch: Created from master
+b9af04bbb05173ffd703bfc238398768dd63404b 98d393b2c5ef75f8c6319879a921fa1877c9c36d maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1508720870 -0400	commit: Major Changes!
+98d393b2c5ef75f8c6319879a921fa1877c9c36d ff627e9cae591807652904abcf11e372486b8a78 maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1508941630 -0400	pull --no-rebase --progress origin: Fast-forward
+ff627e9cae591807652904abcf11e372486b8a78 d7d81fe6cbe25a48fe0a9fbda58c54a15427c5d6 maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1508980920 -0400	commit: Some Blob Accuracy Edits
+d7d81fe6cbe25a48fe0a9fbda58c54a15427c5d6 73fd3c9e1efb8d298949e7c1b38d2d8f9b55910e maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1509114270 -0400	commit: Minor Changes
+73fd3c9e1efb8d298949e7c1b38d2d8f9b55910e a5f2138b4b8d0b6fd46c421946f012e216195fdf maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1509546631 -0400	commit: Major GUI Changes
+a5f2138b4b8d0b6fd46c421946f012e216195fdf bdf708620c51a84ce835808d9066f76967107b6d maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1510081891 -0500	commit: Minor Organizational Changes
+bdf708620c51a84ce835808d9066f76967107b6d a045fea21f4c97626c8368fa7ad63d327f33b3a7 maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1510765824 -0500	pull --no-rebase --progress origin: Fast-forward
+a045fea21f4c97626c8368fa7ad63d327f33b3a7 dda2742a53bb1176cc9095d7f49cdbba2a4792fb maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1510798816 -0500	commit: Added averageNumWithin blob print function
+dda2742a53bb1176cc9095d7f49cdbba2a4792fb f86205b53a6fb01d58d5aa11019d4c8c2bacd47f maxwellgreene <32754741+maxwellgreene@users.noreply.github.com> 1510932094 -0500	commit: Dr. Graham meeting, minor changes
